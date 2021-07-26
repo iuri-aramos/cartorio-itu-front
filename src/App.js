@@ -7,7 +7,7 @@ function App() {
     <React.Fragment>
       <CssBaseline />
       <TopBar />
-      <Container></Container>
+      <Container>Testing the Github Actions and Pages</Container>
     </React.Fragment>
   );
 }
