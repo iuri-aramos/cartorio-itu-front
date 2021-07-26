@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cartorio-itu-front.github.io/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/cartorio-itu-front.github.io/static/js/main.670be114.chunk.js",
-    "main.js.map": "/cartorio-itu-front.github.io/static/js/main.670be114.chunk.js.map",
-    "runtime-main.js": "/cartorio-itu-front.github.io/static/js/runtime-main.29827e67.js",
-    "runtime-main.js.map": "/cartorio-itu-front.github.io/static/js/runtime-main.29827e67.js.map",
-    "static/js/2.e3194992.chunk.js": "/cartorio-itu-front.github.io/static/js/2.e3194992.chunk.js",
-    "static/js/2.e3194992.chunk.js.map": "/cartorio-itu-front.github.io/static/js/2.e3194992.chunk.js.map",
-    "index.html": "/cartorio-itu-front.github.io/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/cartorio-itu-front.github.io/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e3194992.chunk.js.LICENSE.txt": "/cartorio-itu-front.github.io/static/js/2.e3194992.chunk.js.LICENSE.txt"
+    "main.css": "/cartorio-itu-front/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cartorio-itu-front/static/js/main.3e688c6f.chunk.js",
+    "main.js.map": "/cartorio-itu-front/static/js/main.3e688c6f.chunk.js.map",
+    "runtime-main.js": "/cartorio-itu-front/static/js/runtime-main.efe109c4.js",
+    "runtime-main.js.map": "/cartorio-itu-front/static/js/runtime-main.efe109c4.js.map",
+    "static/js/2.52d9c6e2.chunk.js": "/cartorio-itu-front/static/js/2.52d9c6e2.chunk.js",
+    "static/js/2.52d9c6e2.chunk.js.map": "/cartorio-itu-front/static/js/2.52d9c6e2.chunk.js.map",
+    "index.html": "/cartorio-itu-front/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/cartorio-itu-front/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.52d9c6e2.chunk.js.LICENSE.txt": "/cartorio-itu-front/static/js/2.52d9c6e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29827e67.js",
-    "static/js/2.e3194992.chunk.js",
+    "static/js/runtime-main.efe109c4.js",
+    "static/js/2.52d9c6e2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.670be114.chunk.js"
+    "static/js/main.3e688c6f.chunk.js"
   ]
 }
