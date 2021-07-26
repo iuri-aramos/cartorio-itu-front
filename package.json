@@ -1,6 +1,6 @@
 {
-  "name": "cartorio-itu-front.github.io",
-  "homepage": "https://iuri-aramos.github.io/cartorio-itu-front.github.io",
+  "name": "cartorio-itu-front",
+  "homepage": "https://iuri-aramos.github.io/cartorio-itu-front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
