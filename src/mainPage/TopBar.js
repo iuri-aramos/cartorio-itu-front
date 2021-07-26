@@ -5,6 +5,7 @@ import { MailOutline, Phone } from "@material-ui/icons";
 const useStyles = makeStyles((theme) => ({
   boxMain: {
     display: "flex",
+    justifyContent: "space-between",
     alignContent: "center",
     [theme.breakpoints.down("xs")]: {
       flexDirection: "column",
@@ -20,11 +21,7 @@ const TopBar = () => {
   return (
     <Box component="div" bgcolor="primary.main" color="white" maxWidth>
       <Container>
-        <Box
-          display="flex"
-          justifyContent="space-between"
-          className={classes.boxMain}
-        >
+        <Box className={classes.boxMain}>
           <Box display="flex" alignContent="center">
             <Phone />
             <Typography className={classes.spaceLeftText}>
